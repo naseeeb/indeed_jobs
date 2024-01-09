@@ -1,0 +1,43 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link href="{% static 'css/bootstrap.min.css' %}" rel="stylesheet">
+    <!-- ... (your head content remains the same) ... -->
+</head>
+
+<body>
+    <!-- Jobs Start -->
+    <div class="container-xxl py-5">
+        <div class="container">
+            <!-- Form to edit job details -->
+            <form method="post" action="{% url 'edit-job' job.pk %}" class="p-4 border mb-4">
+                {% csrf_token %}
+                <div class="mb-3">
+                    <label for="jobTitle" class="form-label">Job Title</label>
+                    <input type="text" class="form-control" id="jobTitle" name="job_title" value="{{ job.jobtitle }}">
+                </div>
+                <div class="mb-3">
+                    <label for="jobCompany" class="form-label">Company</label>
+                    <input type="text" class="form-control" id="jobCompany" name="job_company" value="{{ job.company }}">
+                </div>
+                <div class="mb-3">
+                    <label for="jobLocation" class="form-label">Location</label>
+                    <input type="text" class="form-control" id="jobLocation" name="job_location" value="{{ job.location }}">
+                </div>
+                <div class="mb-3">
+                    <label for="jobSalary" class="form-label">Salary</label>
+                    <input type="text" class="form-control" id="jobSalary" name="job_salary" value="{{ job.salary }}">
+                </div>
+                <!-- Include other job fields -->
+                <button type="submit" class="btn btn-primary">Save</button>
+            </form>
+        </div>
+    </div>
+    <!-- Jobs End -->
+
+    <!-- Your other HTML content or closing tags go here -->
+
+</body>
+</html>
