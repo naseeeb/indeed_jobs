@@ -1,0 +1,416 @@
+[{
+  "_id": {
+    "$oid": "659bacc4ccdec44a54f057a2"
+  },
+  "id": 6,
+  "jobtitle": "Python Backend Developer - WFH",
+  "company": "Uplers",
+  "location": "Remote",
+  "postdate": "Hiring On going",
+  "extractdate": {
+    "$date": "2024-01-06T00:00:00.000Z"
+  },
+  "summary": "Roles & Responsibilities\r\n\r\n    Writing efficient, reusable, testable, and scalable code\r\n    Understanding, analysing, and implementing – Business needs, feature modification requests, conversion into software components\r\n    Integration of user-oriented elements into different applications, data storage solutions\r\n    Developing – Backend components to enhance performance and receptiveness, server-side logic, and platform, highly responsive web applications\r\n    Use tools and methodologies to create representations for functions and user interface of desired product\r\n    Develop high-level product specifications with attention to system integration and feasibility\r\n    Enhancing the functionalities of current software systems\r\n    Working with Python libraries and frameworks\r\n\r\nThis Role Requires:\r\n\r\n    5+ years of software development experience\r\n    Python fundamentals and programming\r\n    AWS cloud management and architecting enterprise data solutions\r\n    Prior experience in automated build pipeline, continuous integration, and deployment\r\n    Experience with Finance product / software preferred\r\n    Experience with Node.js\r\n    Web frameworks and RESTful APIs experience\r\n    Code packaging, release, and deployment management\r\n    Database knowledge in PostgreSQL, MySQL, relational database, etc.\r\n    Ability to integrate databases and various data sources into a unified system",
+  "salary": "₹2,05,902 a month",
+  "job_url": "https://in.indeed.com/jobs?q=python+developer&l=&vjk=5a61fdba828e98d8"
+},
+{
+  "_id": {
+    "$oid": "659bad13ccdec44a54f057a4"
+  },
+  "id": 7,
+  "jobtitle": "Python developer",
+  "company": "Horizon Corp",
+  "location": "Bengaluru, Karnataka",
+  "postdate": "4 days ago",
+  "extractdate": {
+    "$date": "2024-01-06T00:00:00.000Z"
+  },
+  "summary": null,
+  "salary": "Not Mentioned",
+  "job_url": "https://in.indeed.com/jobs?q=python+developer&l=&vjk=e74c14610bbf7a15"
+},
+{
+  "_id": {
+    "$oid": "659bad54ccdec44a54f057a6"
+  },
+  "id": 8,
+  "jobtitle": "Python Developer",
+  "company": "Kognosdata",
+  "location": "Bengaluru, Karnataka",
+  "postdate": "Just posted",
+  "extractdate": {
+    "$date": "2024-01-06T00:00:00.000Z"
+  },
+  "summary": "Looking for Python developers.\r\n\r\nExperience of 1 to 4 years in Python Development.\r\n\r\nSkills : Python, Pandas, Numpy, Any database experience\r\n\r\nData Manipulation and Analysis: Skilled in Pandas and NumPy have expertise in working with data structures, manipulating data, and performing data analysis tasks. Using Pandas for data manipulation, cleaning, and transformation, while NumPy is used for numerical computing and array operations.\r\n\r\nWill consider only immediate or 15 days joiners only.\r\n\r\nInterested folks can directly share your CV to pooja@kognosdat.com",
+  "salary": "Not Mentioned",
+  "job_url": "https://in.indeed.com/jobs?q=python+developer&l=&vjk=3518343537c14e35"
+},
+{
+  "_id": {
+    "$oid": "659bad98ccdec44a54f057a8"
+  },
+  "id": 9,
+  "jobtitle": "Python Flask Developer",
+  "company": "CGI",
+  "location": "Pune, Maharashtra",
+  "postdate": "20 days ago",
+  "extractdate": {
+    "$date": "2024-01-06T00:00:00.000Z"
+  },
+  "summary": "Job Title: Python Flask Developer\r\nPosition: Software Engineer\r\nExperience: 4- 7 Years\r\nCategory: Software Development/ Engineering\r\nMain location: India, Pune, Bangalore\r\nPosition ID: J1223-1108\r\nEmployment Type: Full Time\r\n\r\nWe are looking for an experienced Python Flask Developer to join our team. The ideal candidate should be passionate about coding and developing scalable and high-performance applications. You will work closely with our other members of the team to deliver quality solutions that meet the needs of our clients.",
+  "salary": "Not Mentioned",
+  "job_url": "https://in.indeed.com/jobs?q=python+developer&l=&vjk=76039aff4bd3b35c"
+},
+{
+  "_id": {
+    "$oid": "659badd9ccdec44a54f057aa"
+  },
+  "id": 10,
+  "jobtitle": "Python Developer",
+  "company": "Techinfolabs",
+  "location": "BTM Layout, Bengaluru, Karnataka",
+  "postdate": "3 days ago",
+  "extractdate": {
+    "$date": "2024-01-06T00:00:00.000Z"
+  },
+  "summary": "7+ years of relevant Python Application development experience.\r\n\r\n    Creating applications and packages with Python 3\r\n    Experience working in fast- paced project delivery using AGILE methods\r\n    Strong software development skills, knowledge of best practices (SOLID, CI/CD, MS DevOps pipelines etc.)\r\n    MS Azure experience e.g. virtual networks, key vaults and storage, security\r\n    MS SQL backend development experience\r\n    Experience in developing APIs in python using FastAPI/Django/Flask\r\n    Hands on in ADF and Azure Databricks\r\n    Web development with Python\r\n    Basic understanding of the WebSockets protocol\r\n    Knowledge of the OAuth2 and web security\r\n    Basic knowledge of modern JavaScript, TypeScript, Node.js\r\n    Kubernetes containers\r\n    Basic knowledge in numerical calculus, such as multi-dimensional function interpolation, numerical differentiation\r\n    Knowledge of physical commodities trading markets and organisations (esp. LNG/ gas/oil).\r\n    Data Engineering experience blended along with core software engineering experience\r\n    Data manipulation with Pandas\r\n    Python: Bokeh visualization, Tornado web framework, asyncio programming, Azure Python API\r\n    Hashicorp Terraforms (azurerm)\r\n    Kafka Confluent\r\n    Conda package management\r\n    ReactJS front end development experience",
+  "salary": "Up to ₹1,00,000 a month",
+  "job_url": "https://in.indeed.com/jobs?q=python+developer&l=&vjk=ab8ba87e09973d69"
+},
+{
+  "_id": {
+    "$oid": "659bae1bccdec44a54f057ac"
+  },
+  "id": 11,
+  "jobtitle": "Python Developer",
+  "company": "Mobile Programming India Pvt Ltd",
+  "location": "Bengaluru, Karnataka",
+  "postdate": "3 days ago",
+  "extractdate": {
+    "$date": "2024-01-06T00:00:00.000Z"
+  },
+  "summary": "Minimum 3 years of hands-on experience with Python and Django framework.\r\nProven experience in designing, developing, and deploying microservices in an AWS environment.\r\nSolid understanding of RESTful API design principles and best practices.\r\nFamiliarity with containerization technologies such as Docker and orchestration tools like Kubernetes.\r\nExperience with AWS services, including but not limited to Lambda, API Gateway, and DynamoDB.\r\nStrong problem-solving skills and the ability to work independently and collaboratively.\r\nExcellent communication skills and a proactive approach to learning and professional development",
+  "salary": "₹10,00,000 - ₹15,00,000 a year",
+  "job_url": "https://in.indeed.com/jobs?q=python+developer&l=&vjk=2c6e3f0b916bb3e0"
+},
+{
+  "_id": {
+    "$oid": "659bae61ccdec44a54f057ae"
+  },
+  "id": 12,
+  "jobtitle": "Experienced Automation Testing Engineer",
+  "company": "BOEING",
+  "location": "Bengaluru, Karnataka",
+  "postdate": "6 daya ago",
+  "extractdate": {
+    "$date": "2024-01-06T00:00:00.000Z"
+  },
+  "summary": "Job Description & Responsibilities:\r\nCreate formal test plans and test reports and ensures they have the correct approvals.\r\nCoaches and mentors test team members the importance of testing.\r\nResponsible for test planning.\r\nCreates and Maintains the test strategy, documents it.\r\nShould be responsible for maintaining the test cases in test management tools such as ALM and fetching test execution Reports, Requirement traceability matrix etc. from it.\r\nEstimate user stories/features (story point estimation) and tasks in hours with the required level of accuracy and commit them as part of Sprint Planning.\r\nProvides test coverage reports/automates test cases percentage.\r\nEnsures high quality deliverable is passed on to UAT phase for stakeholders testing.\r\nProvides test evaluation summary report (test metrics) for the release.\r\nWorks with the Product Owner to confirm that the acceptance tests reflect the desired functionality.\r\nRaises any impediments/risks (technical/operational/personal) they come across and approaches Scrum Masters/Technical Architect/PO accordingly to arrive at a decision.\r\nCollaborate with other team members on various aspects of development/integration testing etc. to get the feature working on is delivered with quality and on time.\r\nTests features developed by developers throughout sprints to ensure working software with high quality as per acceptance criteria defined is released as per committed team sprint objectives.\r\nPlan how the features will be tested and should manage the test environments and be ready with the test data.\r\nUnderstands requirements, they create automated test cases thereby ensuring regression testing is performed on a daily basis. Checks in code into the shared source code repository regularly without build errors.\r\nDesign, develop and maintain automation test scripts using Selenium.\r\nHave a good understanding of the product features and customer expectation. They ensure all the aspects of the functionality is tested before passing it for UAT.\r\nDefect logging and tracking in the tools such as Jira, ALM etc.",
+  "salary": "Not Mentioned",
+  "job_url": "https://in.indeed.com/jobs?q=python+developer&l=&vjk=f64df498333a2da0&advn=1515350661095281"
+},
+{
+  "_id": {
+    "$oid": "659baea4ccdec44a54f057b0"
+  },
+  "id": 13,
+  "jobtitle": "Python Developer",
+  "company": "Marktine Technology Solutions",
+  "location": "Bengaluru, Karnataka",
+  "postdate": "11 days ago",
+  "extractdate": {
+    "$date": "2024-01-06T00:00:00.000Z"
+  },
+  "summary": "Key Responsibilities :\r\n\r\n\r\n    Develop and implement algorithms to solve complex problems efficiently.\r\n\r\n\r\n    Design, build, and maintain scalable systems and web applications using Python.\r\n\r\n\r\n    Collaborate with cross-functional teams to integrate algorithms into software solutions.\r\n\r\n\r\n    Optimize existing algorithms for performance and scalability.\r\n\r\n\r\n    Conduct code reviews, provide feedback, and mentor junior developers on algorithmic best practices",
+  "salary": "Not Mentioned",
+  "job_url": "https://in.indeed.com/jobs?q=python+developer&l=&vjk=1b21906f7acbe81a"
+},
+{
+  "_id": {
+    "$oid": "659baeeaccdec44a54f057b2"
+  },
+  "id": 14,
+  "jobtitle": "Python developer",
+  "company": "WebIdeaSole",
+  "location": "Bengaluru, Karnataka",
+  "postdate": "5 days ago",
+  "extractdate": {
+    "$date": "2024-01-06T00:00:00.000Z"
+  },
+  "summary": "Greetings from Web Idea Solution!!\r\n\r\nJob Title: Python Developer\r\n\r\nJob Description:\r\n\r\nWe are seeking an experienced Python Developer to join our dynamic team. The ideal candidate will have a strong background in Python development, a passion for creating efficient and maintainable code, and the ability to work collaboratively within a cross-functional team. As a Python Developer, you will be responsible for designing, coding, testing, and debugging software applications, as well as maintaining and enhancing existing systems.\r\n\r\nMust have skills requirements :\r\n\r\n    Reading and understanding existing code base (Very imp.)\r\n    API: Graph QL\r\n    Python\r\n    Web Development: Flank/Fast API\r\n    SQL Database (Read & Write) Any database\r\n    B2C Past Experience\r\n\r\nGood to have Skills :\r\n\r\n    SQL Alchemy - Good to have\r\n    Ownership and Prompt in delivery\r\n\r\nKey Responsibilities:\r\n\r\nSoftware Development:** Design, develop, and maintain Python-based software applications, ensuring high performance, responsiveness, and scalability.\r\n\r\nCode Review:** Collaborate with team members to conduct code reviews, provide constructive feedback, and maintain code quality standards.\r\n\r\nDatabase Integration:** Integrate Python applications with various databases, such as SQL, NoSQL, and ORM frameworks.\r\n\r\nAPI Development:** Create and maintain RESTful APIs for data retrieval and manipulation, ensuring compatibility with front-end applications.\r\n\r\nTesting and Debugging:** Write unit tests and perform debugging to identify and resolve software defects and issues.\r\n\r\nDocumentation:** Create and maintain technical documentation, including code documentation, API documentation, and system architecture documentation.\r\n\r\nPerformance Optimization:** Identify and address performance bottlenecks in Python applications and implement optimization strategies.\r\n\r\nCollaboration:** Work closely with cross-functional teams, including front-end developers, designers, and product managers, to deliver high-quality software products.\r\n\r\nVersion Control:** Utilize version control systems (e.g., Git) to manage code repositories and collaborate effectively with team members.\r\n\r\nQualifications:\r\n\r\n- Bachelor's degree in Computer Science, Software Engineering, or a related field (or equivalent work experience).\r\n\r\n- Proven experience as a Python Developer, with a strong portfolio of Python-based projects.\r\n\r\n- Proficiency in Python programming, including knowledge of Python frameworks (e.g.,, Flask/ First API ) and libraries.\r\n\r\n- Familiarity with front-end technologies (HTML, CSS, JavaScript) and the ability to collaborate with front-end developers.\r\n\r\n- Experience with databases and database design, including SQL and NoSQL databases.\r\n\r\n- Strong problem-solving skills and attention to detail.\r\n\r\n- Excellent communication and teamwork skills.",
+  "salary": "₹50,000 - ₹80,000 a month",
+  "job_url": "https://in.indeed.com/jobs?q=python+developer&start=10&vjk=6d12eaea8352c4d4"
+},
+{
+  "_id": {
+    "$oid": "659baf26ccdec44a54f057b4"
+  },
+  "id": 15,
+  "jobtitle": "Junior Python Backend Developer",
+  "company": "Finpoint",
+  "location": "Bengaluru, Karnataka",
+  "postdate": "30+ days ago",
+  "extractdate": {
+    "$date": "2024-01-06T00:00:00.000Z"
+  },
+  "summary": "Requirements:\r\n\r\n    Proficient in developing a dynamic web app with Django framework following best coding practices\r\n    Basic architecture design knowledge in building scalable web app\r\n    Code deployment on production server\r\n    Knowledge of security and data protection\r\n    Integration of data storage solutions\r\n    Understanding of fundamental design principles behind a scalable application\r\n    Good knowledge in developing RESTful APIs for the backend system and comfortable in using Git version control\r\n    Proficient understanding of database modelling and query optimisation and good at work around them\r\n    Fluency with the command line interface\r\n    Familiarity with Linux like operating systems\r\n    Good understanding about Data Structures and Algorithms\r\n    Familiarity with optimising web application to improve the performance\r\n    Proficient understating of data modelling and entity modelling\r\n    Knowledge of any other web related technology is a bonus\r\n\r\nResponsibilities:\r\n\r\n    Develop and optimise application\r\n    Debug code, code comments and clear code\r\n    You will be responsible for developing a new application and adding new enhancements and features to the existing applications ensuring performance, responsiveness, and availability to the users\r\n    Optimise application for maximum speed, scalability and availability\r\n    Collaborate with other team members",
+  "salary": "Not Mentioned",
+  "job_url": "https://in.indeed.com/jobs?q=python+developer&start=10&vjk=5674dec08e95d668"
+},
+{
+  "_id": {
+    "$oid": "659baf66ccdec44a54f057b6"
+  },
+  "id": 16,
+  "jobtitle": "python developer",
+  "company": "pentoz technology",
+  "location": "Bengaluru, Karnataka",
+  "postdate": "30+ days ago",
+  "extractdate": {
+    "$date": "2024-01-06T00:00:00.000Z"
+  },
+  "summary": "v In-depth knowledge in Core Python with Django building end to endapplications development.\r\n\r\n\r\nv Experience in Web technologies-HTML, CSS, Javascript.\r\n\r\n\r\nv Database - SQL Server/Postgres/ NoSQL database.\r\n\r\n\r\nv Good understanding of Algorithms, data structures.\r\n\r\n\r\nv Knowledge in ORM (Object Relational Mapper) libraries.\r\n\r\n\r\nv Experience in integrating multiple data sources and databases into onesystem.\r\n\r\n\r\nv Knowledge in REST / SOAP API\r\n\r\n\r\nv Knowledge in version control tools like Git\r\n\r\nv Experience with various cloud technologies.\r\n\r\n\r\nQualifications\r\n\r\n\r\ngraudate",
+  "salary": "Not Mentioned",
+  "job_url": "https://in.indeed.com/jobs?q=python+developer&start=10&vjk=5e063c4ea8d7c2f0"
+},
+{
+  "_id": {
+    "$oid": "659bafb0ccdec44a54f057b8"
+  },
+  "id": 17,
+  "jobtitle": "Python developer",
+  "company": "Wipro Limited",
+  "location": "Hyderabad, Telangana",
+  "postdate": "2 days ago",
+  "extractdate": {
+    "$date": "2024-01-06T00:00:00.000Z"
+  },
+  "summary": null,
+  "salary": "Not Mentioned",
+  "job_url": "https://in.indeed.com/jobs?q=python+developer&start=10&vjk=08b7ce401f92004c"
+},
+{
+  "_id": {
+    "$oid": "659bb006ccdec44a54f057ba"
+  },
+  "id": 18,
+  "jobtitle": "Python Developer",
+  "company": "BigWelt Infotech Pvt Ltd",
+  "location": "Bengaluru, Karnataka",
+  "postdate": "9 days ago",
+  "extractdate": {
+    "$date": "2024-01-06T00:00:00.000Z"
+  },
+  "summary": "Role Definition: Python Developer\r\n\r\nResponsibilities:\r\n\r\nSoftware Development:Write, test, and maintain high-quality Python code.\r\nDevelop new features and functionalities for software applications.\r\n\r\nWeb Development (if applicable):Use Python web frameworks like Django or Flask to build web applications.\r\nImplement and maintain RESTful APIs for seamless communication.\r\n\r\nDatabase Management:Work with various databases such as MySQL, PostgreSQL, or MongoDB.\r\nDesign, implement, and optimize database schemas.\r\n\r\nTesting and Debugging:Write unit tests to ensure the reliability and functionality of code.\r\nDebug and resolve software defects and issues.\r\n\r\nCollaboration:Work closely with cross-functional teams, including front-end developers, designers, and product managers.\r\nParticipate in code reviews to maintain code quality standards.\r\n\r\nDocumentation:Create and maintain technical documentation for code, APIs, and software functionalities.\r\nDocument code changes and updates for reference.\r\n\r\nContinuous Learning:Stay updated on industry trends, best practices, and new technologies.\r\nContinuously improve coding skills and adapt to evolving development practices.\r\n\r\nDeployment:Deploy applications to production environments and ensure scalability.\r\nCollaborate with DevOps teams for smooth deployment processes.\r\n\r\nTroubleshooting and Support:Provide support for production issues and troubleshoot problems.\r\nCollaborate with support teams to address customer-reported issues.\r\n\r\nCode Optimization:Optimize code for performance, scalability, and efficiency.\r\nIdentify and address bottlenecks in the software.",
+  "salary": "₹40,000 - ₹60,000 a month",
+  "job_url": "https://in.indeed.com/jobs?q=python+developer&start=10&vjk=89c05af9734c81b9"
+},
+{
+  "_id": {
+    "$oid": "659bb04eccdec44a54f057bc"
+  },
+  "id": 19,
+  "jobtitle": "Python Java Developer",
+  "company": "Virtusa",
+  "location": "Bengaluru, Karnataka•Hybrid remote",
+  "postdate": "26 days ago",
+  "extractdate": {
+    "$date": "2024-01-06T00:00:00.000Z"
+  },
+  "summary": "Python/ JAVA developer\r\n\r\nPrimary Responsibilities:\r\nWe are looking for a Java/Python Development Engineer who can take ownership for the whole end to end delivery, performing analysis, design, coding, testing, and maintenance of large-scale and distributed applications. The successful candidate will be a highly motivated team player and is likely to have significant experience in application development, a strong technical background and good communication skills. He/she will interact directly with the users and with other technologists across the firm when using their framework/software.\r\nSkills required (essential):Excellent working knowledge of the following technologies: Java, Databases, Middleware (Soap/Xml/Messaging/RESTful services). Work experience with Python, Shell scripting. Sound understanding of Object Oriented Analysis, Design and Programming, familiarity with Design Patterns.\r\n\r\n    A good knowledge of Unix/Linux platform-Experience developing client-server, distributed, real-time, performance-critical, highly available, or large-scale systems-Experience building real time applications in Multithreading for a Unix/Linux platform-Experience working with the Spring framework-Experience working with Source Code Management solutions like (ex. Git)-Proficiency with Enterprise level database (ex. Oracle, SQL Server, Sybase, DB2).-Version control (e.g. Git)-Experience in either IntelliJ or Eclipse IDE-Experience testing software (e.g. Unit testing, using frameworks, performance testing/tuning)-Experience debugging or performing issue diagnosis. Experience of iterative / agile development practices. Exposure to working in a global delivery team.Comfortable with direct interaction with the business users at all levels. Excellent written and verbal communication skills\r\n\r\n\r\nMandatory Skills\r\n\r\nJava/Python Development Engineer\r\nJava, Databases, Middleware (Soap/Xml/Messaging/RESTful services\r\nUnix/Linux",
+  "salary": "Not Mentioned",
+  "job_url": "https://in.indeed.com/jobs?q=python+developer&start=10&vjk=c1c0e57bb85525b3"
+},
+{
+  "_id": {
+    "$oid": "659bb097ccdec44a54f057be"
+  },
+  "id": 20,
+  "jobtitle": "Python Developer",
+  "company": "Software Associates- WeMakeIoT",
+  "location": "Calicut, Kerala",
+  "postdate": "5 days ago",
+  "extractdate": {
+    "$date": "2024-01-06T00:00:00.000Z"
+  },
+  "summary": "1. Job Title: Python developer\r\n\r\nEducation: Any Graduate – BTech CSE / IT / ECE, MTech CSE / IT / ECE\r\n\r\nExperience: 1-2 years\r\n\r\nJob Location: Calicut\r\n\r\nJob type: Permanent\r\n\r\nWork schedule: Full time\r\n\r\nJob Description:\r\n\r\nSoftware Developer\r\n\r\nDevelop and maintain applications for the web and mobile platforms. Work with some of the leading cutting-edge technologies.\r\n\r\nSkills required:\r\n\r\n    Python Programming: Proficiency in Python is fundamental. You should be comfortable with Python syntax, data structures, and common libraries.\r\n    Object-Oriented Programming (OOP): Understanding of OOP principles is crucial for structuring Python code effectively.\r\n    Version Control: Familiarity with version control systems like Git and the ability to work collaboratively using tools like GitHub or GitLab.\r\n    Web Development: Basic knowledge of web development concepts, including HTTP, web frameworks like Django or Flask, and HTML/CSS.\r\n    Database Management: Experience with working with databases, both SQL (e.g., PostgreSQL, MySQL) and NoSQL (e.g., MongoDB).\r\n    APIs: Ability to consume and create RESTful APIs. Understanding how to make HTTP requests and handle responses in Python.\r\n    Debugging: Strong debugging skills to identify and resolve issues in code effectively.\r\n    Package Management: Knowledge of Python package management tools like pip and virtual environments (e.g., virtualenv, conda).\r\n    Data Manipulation: Familiarity with data manipulation libraries such as NumPy and Pandas for working with structured data.\r\n    Cloud Providers: Familiarity with major cloud providers like Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP), or others. Understanding the services they offer and how to use them is valuable.\r\n    Linux/Unix Skills: Proficiency in using the command line, working with Linux/Unix systems, and basic shell scripting.\r\n    Documentation: The ability to write clear and concise code documentation and other technical documents.\r\n    Security Awareness: Understanding of common security practices and potential vulnerabilities in software development.\r\n    Frameworks and Libraries: Depending on your specific role or project, you may need to learn and work with specific Python libraries and frameworks relevant to your domain (e.g., data science, machine learning, web development).\r\n\r\nOther Requirements:\r\n\r\nShould have a good academic track record. [Candidates having arrears can also apply for the job].\r\n\r\nShould be willing to serve the company for a minimum of 2 years.\r\n\r\nShould be hard working, positive thinkers, willing to learn new technologies.\r\n\r\nShould have good problem-solving skills and attention to detail.\r\n\r\nShould possess good communication skills.\r\n\r\nShould be a continuous Learner.\r\n\r\nShould be a team player.\r\n\r\nAnnual CTC:\r\n\r\n2.52L to 3.60L\r\n\r\nInterview rounds:\r\n\r\nAptitude test\r\n\r\nTechnical interview\r\n\r\nFinal interview with CEO\r\n\r\nCompany Address\r\n\r\nSoftware Associates - WeMakeIoT\r\n\r\nMascot, Zilla Bungalow Road,\r\n\r\nNext to M.E.S Women’s College, Nadakkavu, Calicut",
+  "salary": "₹21,000 - ₹30,000 a month",
+  "job_url": "https://in.indeed.com/jobs?q=python+developer&start=10&vjk=e5d1fe030a03a224"
+},
+{
+  "_id": {
+    "$oid": "659bb0dfccdec44a54f057c0"
+  },
+  "id": 21,
+  "jobtitle": "Software Developer (Python/Microservices)",
+  "company": "SkyPoint Cloud",
+  "location": "Bengaluru, Karnataka",
+  "postdate": "5 days ago",
+  "extractdate": {
+    "$date": "2024-01-06T00:00:00.000Z"
+  },
+  "summary": "Key Responsibilities:\r\nDesign and implement efficient, scalable Python code, focusing on algorithms, HTTP REST APIs, and Asyncio.\r\nDevelop and maintain robust Azure Cloud-based solutions and integrations.\r\nOptimize existing systems for scalability and performance, utilizing Azure Cloud services.\r\nCollaborate with cross-functional teams to design and implement new features.\r\nEnsure the reliability and security of applications in the Azure Cloud environment.\r\nStay abreast of developments in Azure services and cloud computing.\r\nRequired Skills & Qualifications:\r\nBachelor’s degree in Computer Science, Engineering, or a related field.\r\nProven experience as a Python Developer with a strong background in algorithms, HTTP REST APIs, Asyncio, and Azure Cloud.\r\nDeep understanding of Python and its frameworks and libraries.\r\nProficiency in Azure Cloud services and architecture.\r\nSolid grasp of object-oriented programming and software design patterns.\r\nExperience with code versioning tools, such as Git.\r\nStrong problem-solving and analytical skills.\r\nExcellent communication and teamwork abilities.\r\nPreferred Skills:\r\nCertifications in Azure Cloud technologies.\r\nExperience with containerization technologies like Docker, Kubernetes.\r\nKnowledge of database technologies (SQL and NoSQL).\r\nExperience with CI/CD pipelines and test-driven development.",
+  "salary": "Not Mentioned",
+  "job_url": "https://in.indeed.com/jobs?q=python+developer&start=10&vjk=9be676309185b8db"
+},
+{
+  "_id": {
+    "$oid": "659bb11cccdec44a54f057c2"
+  },
+  "id": 22,
+  "jobtitle": "Python Developer",
+  "company": "Plaxonic",
+  "location": "Remote",
+  "postdate": "4 days ago",
+  "extractdate": {
+    "$date": "2024-01-06T00:00:00.000Z"
+  },
+  "summary": "Job Description:\r\n\r\nMust Haves:\r\n\r\n    Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)\r\n    At least 3+ years of relevant experience as a software developer\r\n    2+ years experience working with Python and Python for Data Science.\r\n    Excellent spoken and written English communication skills\r\n    Notice Period: Immediate\r\n\r\nSummary:\r\n\r\nA reputable company with rapid growth that specializes in creating conversational AI chatbots or companions that are individualized through the use of language models and deep learning algorithms, is looking for a Python Developer. The developer will be in charge of optimizing the program to run as quickly and as scalable as possible. The company provides a distinctive and customized engagement experience by providing a range of services, including education, entertainment, and customer care. This is an innovative opportunity for candidates who are eager to learn in a fast-paced environment.\r\n\r\nJob Responsibilities:\r\n\r\n    Write code that is clear, reusable, and maintainable.\r\n    Take part in code reviews to uphold the requirements for code quality\r\n    Possess the ability to code in Python\r\n    In the responses, provide well-structured, accurate, and easily annotate/classifiable code that is straightforward and clean\r\n\r\nJob Requirements:\r\n\r\n    Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)\r\n    At least 3+ years of relevant experience as a software developer\r\n    Extensive experience working with Python and Python for Data Science\r\n    Familiarity with SQL and QA is desirable\r\n    Nice to have some Software Quality Assurance and Test Planning experience\r\n    Proficiency with the language's syntax and conventions\r\n    Previous experience tackling algorithmic problems\r\n    Extensive data science or data engineering is desirable\r\n    Strong background in application engineering\r\n    Excellent spoken and written English communication skills",
+  "salary": "₹42,00,000 - ₹48,00,000 a year",
+  "job_url": "https://in.indeed.com/jobs?q=python+developer&start=10&vjk=9f058a937a5f4f6c"
+},
+{
+  "_id": {
+    "$oid": "659bb157ccdec44a54f057c4"
+  },
+  "id": 23,
+  "jobtitle": "Python developer with Flask",
+  "company": "UST",
+  "location": "Bengaluru, Karnataka",
+  "postdate": "30+ days ago",
+  "extractdate": {
+    "$date": "2024-01-06T00:00:00.000Z"
+  },
+  "summary": "Mandatory Tech Skills :\r\n\r\n5+ Years\r\n\r\n    Project Experience in API Development with Flask,\r\n    Strong knowledge in Python Pandas,\r\n    Strong in SQL Query development,\r\n    SQL Query Optimization\r\n\r\nOptional:\r\n\r\n    Redis (only for 5 plus years’ experience) but should capable of learning Redis quickly\r\n    If Candidate, less than 5 years’ experience, then Redis experience is mandatory.",
+  "salary": "Not Mentioned",
+  "job_url": "https://in.indeed.com/jobs?q=python+developer&start=10&vjk=52c4f7f13f4f002a"
+},
+{
+  "_id": {
+    "$oid": "659bb6d7ccdec44a54f057c6"
+  },
+  "id": 24,
+  "jobtitle": "Sr Python Developer",
+  "company": "Virtusa",
+  "location": "Bengaluru, Karnataka•Hybrid remote",
+  "postdate": "17 days ago",
+  "extractdate": {
+    "$date": "2024-01-06T00:00:00.000Z"
+  },
+  "summary": "JOB DESCRIPTION\r\n\r\nSkill: Python Developer\r\n\r\nEXP: 6 + Yrs\r\n\r\nKey responsibility:\r\n\r\n1. Design and implement server-side logic using Python, specifically with frameworks like Flask and Django.\r\n2. Utilize GitLab for version control, ensuring effective collaboration and code management within the development team.\r\n3. Demonstrate proficiency in Oracle Database to manage and optimize database functionality.\r\n4. Collaborate with front-end developers to integrate user-facing elements and ensure seamless functionality.\r\n5. Ensure high performance and responsiveness of applications developed.\r\n6. Exhibit strong problem-solving skills to address challenges in the development process.\r\n7. Work effectively in an agile development environment, adapting to changing requirements and priorities.\r\n8. CICD Pipeline setup and troubleshooting with vulnerabilities.\r\n9. Knowledge of tools like SonarQube, Checkmarx, X-ray Scan or similar.\r\n10. Collaborate with cross-functional teams to understand project requirements and contribute to the overall architecture of the applications.\r\n11. Participate in the full software development lifecycle, from planning and design to deployment and maintenance.\r\n12. Good to have knowledge on any subscription model.\r\n\r\nAbout Virtusa\r\n\r\nTeamwork, quality of life, professional and personal development: values that Virtusa is proud to embody. When you join us, you join a team of 36,000 people globally that cares about your growth — one that seeks to provide you with exciting projects, opportunities and work with state of the art technologies throughout your career with us.\r\n\r\nGreat minds, great potential: it all comes together at Virtusa. We value collaboration and the team environment of our company, and seek to provide great minds with a dynamic place to nurture new ideas and foster excellence.",
+  "salary": "Not Mentioned",
+  "job_url": "https://in.indeed.com/jobs?q=python+developer&start=10&vjk=ac7d8971c26e937c"
+},
+{
+  "_id": {
+    "$oid": "659bb71dccdec44a54f057c8"
+  },
+  "id": 25,
+  "jobtitle": "Backend Software Developer (Python & Rust)",
+  "company": "Codash Solutions",
+  "location": "Remote",
+  "postdate": "Just Posted",
+  "extractdate": {
+    "$date": "2024-01-06T00:00:00.000Z"
+  },
+  "summary": "Key Responsibilities\r\n\r\n    Contribute to various aspects of our trading systems: real-time monitoring, scrapers, data processors, visualization, and execution bots.\r\n    Design and implement robust systems ensuring resilience under challenging conditions.\r\n    Collaborate with data scientists to deploy trading strategies.\r\n    Integrate systems with new exchanges and providers.\r\n    Optimize codebase for speed, reliability, and expand test coverage.\r\n\r\nRequirements\r\n\r\n    2+ years of software development experience.\r\n    Proficiency in Rust and Python with the ability to write robust and efficient code.\r\n    Strong grasp of async programming, multithreading, and debugging tools.\r\n    Experience in performance enhancement and working with databases like PostgreSQL, ClickHouse.\r\n    Familiarity with Python data science packages (Pandas, Numba) is advantageous.",
+  "salary": "₹80,000 - ₹90,000 a month",
+  "job_url": "https://in.indeed.com/jobs?q=python+developer&start=10&vjk=77713c828062d946"
+},
+{
+  "_id": {
+    "$oid": "659bb813ccdec44a54f057ca"
+  },
+  "id": 26,
+  "jobtitle": "Python Developer",
+  "company": "EMBLAZE Training and Services",
+  "location": "Bengaluru, Karnataka",
+  "postdate": "6 days ago",
+  "extractdate": {
+    "$date": "2024-01-06T00:00:00.000Z"
+  },
+  "summary": "Provident Fund, Health insurance, Paid time off, Paid sick time\r\nLocation\r\nBengaluru, Karnataka\r\nBenefits\r\nPulled from the full job description\r\n\r\n    Health insurance\r\n    Paid sick time\r\n    Paid time off\r\n    Provident Fund\r\n\r\nPython Developer\r\n\r\nExperience as a Python Developer with a strong portfolio of projects.\r\n\r\nBachelor's degree in Computer Science, Software Engineering or a related field.\r\n\r\nIn-depth understanding of the Python software development stacks, ecosystems, frameworks and tools such as Numpy, Scipy, Pandas, Dask, spaCy, NLTK, sci-kit-learn and PyTorch.\r\n\r\nExperience with front-end development using HTML, CSS, and JavaScript.\r\n\r\nFamiliarity with database technologies such as SQL and NoSQL.\r\n\r\nExcellent problem-solving ability with solid communication and collaboration skills.\r\n\r\nExperience with popular Python frameworks such as Django, Flask or Pyramid.\r\n\r\nKnowledge of data science and machine learning concepts and tools.\r\n\r\nA working understanding of cloud platforms such as AWS, Google Cloud or Azure.\r\n\r\nContributions to open-source Python projects or active involvement in the Python community.",
+  "salary": "₹500,000.00 - ₹800,000.00 per year",
+  "job_url": "https://in.indeed.com/jobs?q=python+developer&start=10&vjk=65817ba17a689c3d"
+},
+{
+  "_id": {
+    "$oid": "659bb852ccdec44a54f057cc"
+  },
+  "id": 27,
+  "jobtitle": "Python Developer",
+  "company": "SeerTech Systems",
+  "location": "Bengaluru, Karnataka",
+  "postdate": "4 days ago",
+  "extractdate": {
+    "$date": "2024-01-06T00:00:00.000Z"
+  },
+  "summary": "Exp : 2 to 3 years\r\n\r\nLocations : Bangalore\r\n\r\nPackage : 8 to 12 LPA\r\n\r\nJob Description with skill set :\r\n\r\nPython Backend Developer with a strong foundation in programming and expertise in algorithm design and flowchart development.\r\n\r\nShould be expert in creating detailed flowcharts and diagrams to illustrate system workflows and algorithms.\r\n\r\nWorked on packages like os, sys, math, datetime, json, csv, collections, random, re, argparse, unittest, logging, pickle, socket, subprocess, xlswriter, numpy and panda.\r\n\r\nWill be responsible to Design, develop, and maintain scalable backend solutions using Python.\r\n\r\nFast API + mongo DB\r\n\r\nJob Type: Temporary\r\n\r\nSalary: ₹800,000.00 - ₹1,200,000.00 per year\r\n\r\nSchedule:\r\n\r\n    Monday to Friday\r\n\r\nEducation:\r\n\r\n    Bachelor's (Preferred)\r\n\r\nExperience:\r\n\r\n    Python: 2 years (Preferred)\r\n    total work: 2 years (Preferred)\r\n    MongoDB: 2 years (Preferred)\r\n    FastAPI: 2 years (Preferred)\r\n\r\nAbility to Commute:\r\n\r\n    Bangalore, Karnataka (Required)\r\n\r\nAbility to Relocate:\r\n\r\n    Bangalore, Karnataka: Relocate before starting work (Required)\r\n\r\nWork Location: In person\r\n\r\nSpeak with the employer\r\n+91 9244079355",
+  "salary": "₹8,00,000 - ₹12,00,000 a year",
+  "job_url": "https://in.indeed.com/jobs?q=python+developer&start=10&vjk=d0b89ad12277ed27"
+},
+{
+  "_id": {
+    "$oid": "659bb8a7ccdec44a54f057ce"
+  },
+  "id": 28,
+  "jobtitle": "Python Developer",
+  "company": "Majesty Techsol",
+  "location": "Remote",
+  "postdate": "Hiring ongoing",
+  "extractdate": {
+    "$date": "2024-01-06T00:00:00.000Z"
+  },
+  "summary": "We are hiring for a leading IT company which secures talent for various US companies. The JD is as follows:\r\n\r\nWrite code that is clear, reusable, and maintainable.\r\n\r\nTake part in code reviews to uphold the requirements for code quality\r\n\r\nPossess the ability to code in Python\r\n\r\nIn the responses, provide well-structured, accurate, and easily annotate/classifiable code that is\r\n\r\nstraightforward and clean\r\n\r\nJob Requirements:\r\n\r\nBachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)\r\n\r\nAt least 3+ years of relevant experience as a software developer\r\n\r\nExtensive experience working with Python and Python for Data Science\r\n\r\nFamiliarity with SQL and QA is desirable\r\n\r\nNice to have some Software Quality Assurance and Test Planning experience\r\n\r\nProficiency with the language's syntax and conventions\r\n\r\nPrevious experience tackling algorithmic problems\r\n\r\nExtensive data science or data engineering is desirable\r\n\r\nStrong background in application engineering\r\n\r\nExcellent spoken and written English communication skills",
+  "salary": "₹30,00,000 - ₹35,00,000 a year",
+  "job_url": "https://in.indeed.com/jobs?q=python+developer&start=10&vjk=4cb34b94a75d6a9b"
+},
+{
+  "_id": {
+    "$oid": "659ce76400880b241291a4df"
+  },
+  "id": 29,
+  "jobtitle": "Remote Python Developer",
+  "company": "Clark Technology",
+  "location": "Remote",
+  "postdate": "Today",
+  "extractdate": {
+    "$date": "2024-01-06T00:00:00.000Z"
+  },
+  "summary": "Job Description: Clark Technology (clarktn.com) is seeking a Senior Data Engineer with a strong background in Python and its libraries, SQL, Excel, and ideally VBA. This role is perfect for a problem-solver who thrives in developing complex data solutions and providing insightful analyses that drive strategic business decisions. As a key player in our data-driven initiatives, you will be involved in high-impact projects and collaborate with various teams.\r\n\r\nKey Responsibilities:\r\n\r\n    Design, build, and maintain robust data pipelines.\r\n    Expertly analyze and interpret complex data sets to produce actionable insights.\r\n    Develop and optimize database systems for enhanced performance and reliability.\r\n    Seamlessly integrate systems and data with cross-functional teams.\r\n    Uphold the highest standards of data integrity and security.\r\n    Continuously update knowledge on emerging data engineering trends and technologies.\r\n\r\nQualifications:\r\n\r\n    Extensive experience in Data Engineering.\r\n    Proficiency in Python, SQL, Excel, and VBA (preferred).\r\n    Demonstrated experience in handling large-scale data projects.\r\n    Exceptional problem-solving and analytical skills.\r\n    Familiarity with cloud services, database technologies, and ETL processes.\r\n    Bachelor’s or Master’s degree in Computer Science, Engineering, or a related field.\r\n\r\nRequirements:\r\n\r\n    Fluency in English with outstanding communication skills.\r\n    Access to a reliable high-speed internet connection.\r\n    Willingness to work Eastern Standard Time hours.\r\n    A strong sense of teamwork with the ability to work independently.\r\n\r\nWe Offer:\r\n\r\n    The flexibility of remote work.\r\n    Opportunities for professional development and growth.\r\n    A collaborative, inclusive, and innovative work culture.\r\n    Competitive salary and benefits package.",
+  "salary": "₹10,00,000 - ₹15,00,000 a year",
+  "job_url": "https://in.indeed.com/jobs?q=python+developer&l=&from=searchOnHP&vjk=41f664263750b9b3"
+},
+{
+  "_id": {
+    "$oid": "659ce7b100880b241291a4e1"
+  },
+  "id": 30,
+  "jobtitle": "ETL Developer",
+  "company": "Genworth",
+  "location": "Gurugram, Haryana•Remote",
+  "postdate": "Today",
+  "extractdate": {
+    "$date": "2024-01-06T00:00:00.000Z"
+  },
+  "summary": "YOUR ROLE\r\nAs an Application Development Analyst, you will have proven software development skills, strong math skills and will ideally have had some exposure to finance or accounting-related systems. In this role you will be able to immediately contribute with solid experience in system operations, development and on-going support as well as have the financial acumen to quickly learn basic investing concepts. From job scheduling, data feeds, and production operations... to requirements, design, coding, interfaces, and data flows... to troubleshooting and root-cause analysis, you will be challenged to contribute.\r\n\r\nYOUR RESPONSIBILITIES\r\n\r\n    Collaborate with Investments Operations, Accounting and Controllership teams to construct long term IT solutions to support Genworth’s investment goals\r\n    Support the operation and maintenance of Genworth Investments Trading & Accounting Platform\r\n    Manage the day- to-day operation and coordination of IT processes and enhancements\r\n    Code and maintain custom or canned reports, system interfaces and extracts\r\n    Create interfaces and load-scripts to ancillary financial and reporting systems\r\n    Coordinate with project, support, and business analysts to deliver new or enhanced application code solutions\r\n    Collaborate with Business Analysts to create technical/functional test plans and scripts to validate design, development and implementation of system/reporting deliverables and obtain user sign-off\r\n    Monitor IT processes and ensure successful completion of production daily and monthly runs\r\n    Support the Genworth Investments and accounting functions by troubleshooting and performing root cause analysis of application problems. Identify action items and make recommendations to address process and/or coding issues\r\n    Monitor process metrics and initiate process improvement efforts for IT processes\r\n    Coordinate the conversion of accounting interfaces, reporting and downstream extracts to the new Enterprise Data Management environment\r\n\r\n\r\nYOUR QUALIFICATIONS\r\n\r\n    Bachelor’s degree in a computer science.\r\n    2+ years minimum as Applications Developer\r\n    Solid understanding of relational databases, SQL statements, PL SQL Procedures, ETL data transformations, shell scripts, JAVA scripts, etc.\r\n    Experience and working knowledge in Data Warehouse and ETL tools/technologies.\r\n    Ability to troubleshoot and solve complex technical problems.\r\n    Demonstrated expertise in developing automated jobs\r\n    Working knowledge of software development life cycle (SDLC) & Agile methodologies\r\n    Experience in developing and/or supporting Accounting, Finance or Investments systems\r\n    Experience working with business users.\r\n    Proven history of detail-oriented execution and commitment to customer satisfaction.\r\n\r\n\r\nPREFERRED QUALIFICATIONS\r\n\r\n    2 years of experience developing complex Finance, Investments, Portfolio Management and/or Capital Markets systems\r\n    Good understanding of Microsoft .Net framework, C#, VB.Net or ASP.Net\r\n    Experience with accounting principles, practices, and methodologies\r\n    Experience in working with data feeds, such as Bloomberg, Thomson Reuters, Markit, or similar\r\n    Java and/or Python experience\r\n\r\n\r\nWHY GENWORTH?\r\n\r\n    We have a real impact on the lives of the people we serve\r\n    We work on challenging and rewarding projects\r\n    We give back to the communities where we live\r\n    We offer competitive benefits including:\r\n    Medical and Life Insurance\r\n    Annual Leave up to 25 business days\r\n    Parental Leaves: Maternity, Paternity, Adoption\r\n    12 Casual leave days per year\r\n    12 Sick leave days full pay per year\r\n    11 Paid Holidays per year\r\n    Utility Allowance for Telephone and Internet\r\n    Employee Assistance Program\r\n    Business Travel Accident Insurance\r\n    Gratuity Eligibility\r\n    Retirement Saving Plans",
+  "salary": "Not Mentioned",
+  "job_url": "https://in.indeed.com/jobs?q=python+developer&l=&from=searchOnHP&vjk=9cd13a8abe68b53d&advn=5614217612740155"
+},
+{
+  "_id": {
+    "$oid": "659ce7ea00880b241291a4e3"
+  },
+  "id": 31,
+  "jobtitle": "Python ML Developer",
+  "company": "SUPRA CONTROLS PRIVATE LIMITED",
+  "location": "Chennai, Tamil Nadu",
+  "postdate": "Today",
+  "extractdate": {
+    "$date": "2024-01-06T00:00:00.000Z"
+  },
+  "summary": "1. Excellent programming skills in Python. Strong working knowledge of\r\n\r\nPython's numerical, data analysis, or AI frameworks such as NumPy,\r\n\r\nPandas, Scikit-learn etc.\r\n\r\n2. Knowledge of predictive/prescriptive analytics including Machine\r\n\r\nLearning algorithms (Supervised and Unsupervised) and deep learning\r\n\r\nalgorithms.\r\n\r\n3. Hands on experience in Statistical Modeling.\r\n\r\n4. Work with large datasets, particularly in Postgres or SQL, to drive\r\n\r\ninsightful analysis.\r\n\r\nJob Type: Full-time\r\n\r\nSalary: From ₹45,000.00 per month\r\n\r\nBenefits:\r\n\r\n    Paid time off\r\n    Provident Fund\r\n\r\nSchedule:\r\n\r\n    Day shift\r\n\r\nTipe Lokasi:\r\n\r\n    In-person\r\n\r\nEducation:\r\n\r\n    Bachelor's (Required)\r\n\r\nExperience:\r\n\r\n    Python ML: 2 years (Required)\r\n    total work: 2 years (Preferred)\r\n\r\nAbility to Commute:\r\n\r\n    Chennai, Tamil Nadu (Required)\r\n\r\nAbility to Relocate:\r\n\r\n    Chennai, Tamil Nadu: Relocate before starting work (Required)\r\n\r\nWork Location: In person",
+  "salary": "From ₹45,000 a month",
+  "job_url": "https://in.indeed.com/jobs?q=python+developer&l=&from=searchOnHP&vjk=8894889814df75e0&advn=4714314948388628"
+}]
