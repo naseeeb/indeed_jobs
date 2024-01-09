@@ -1,6 +1,5 @@
-# Project Name
+# indeed jobs scraping
 
-Brief description or introduction to your project.
 
 ## Setup Instructions
 
